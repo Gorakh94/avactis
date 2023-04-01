@@ -160,7 +160,7 @@ public class FramesTest {
 	public void tearDown() {
 		// Close the Parent Popup Window
 		// driver.close();
-		// driver.quit();
+	
 	}
 	/*
 	 * 
